@@ -1,5 +1,6 @@
 Vulnerability:
 DNS Server Cache Snooping Remote Information Disclosure
+
 Mitigations:
 1.Disable non-recursive responses for external clients.
 2.Enable logging for unusual query patterns and set up alerts to detect cache-snooping attempts.
